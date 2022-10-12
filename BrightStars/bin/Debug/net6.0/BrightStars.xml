@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BrightStars</name>
+    </assembly>
+    <members>
+        <member name="M:BrightStars.Controllers.ProductsController.GetProducts(System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BrightStars.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Get a product from database using id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BrightStars.Controllers.ProductsController.PostProduct(BrightStars.Models.Product)">
+            <summary>
+            Add a new product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BrightStars.Controllers.ProductsController.PutProduct(System.Int32,BrightStars.Models.Product)">
+            <summary>
+            Edit/Update the current product using id
+            </summary>
+            <param name="id"></param>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BrightStars.Controllers.ProductsController.DeleteProduct(System.Nullable{System.Int32})">
+            <summary>
+            Delete product permannetly form database
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
