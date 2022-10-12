@@ -12,7 +12,7 @@
 - **MVC** · Design Pattern
 
 ### This Project:
-- I developed a simple back-end code to puting the products in their ctegories.
+- I developed a simple back-end code to put the products in their categories.
 - Technologies I used:
   - Back-End:
     - C# · ASP.NET Core
