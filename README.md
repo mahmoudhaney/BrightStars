@@ -12,7 +12,7 @@
 - **MVC** · Design Pattern
 
 ### This Project:
-- I developed a simple website about registering college students for their Specializations.
+- I developed a simple back-end code to puting the products in their ctegories.
 - Technologies I used:
   - Back-End:
     - C# · ASP.NET Core
